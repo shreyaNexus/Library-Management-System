@@ -89,4 +89,4 @@ Member activity analysis.
 Library usage trends.
 
 Screenshot:
-![Login Page]()
+![Login Page](https://github.com/shreyaNexus/Library-Management-System/blob/82d49884a913d9f431195044581ff1a5bb030bc1/Screenshot%202026-06-17%20203042.png)
